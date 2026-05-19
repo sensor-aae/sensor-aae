@@ -1,4 +1,4 @@
-## Hi, I'm Amanda 👋
+# Hi, I'm Amanda 👋
 
 ###### Applied Math (Financial Mathematics) @ York University. Translating quantitative theory into institutional-grade risk tooling — VaR/ES, GARCH(MLE), Christoffersen backtesting, credit EL frameworks. Open to model risk · market risk · risk analytics roles — Toronto.
 
@@ -42,6 +42,13 @@ A validation-grade market and credit risk engine in Python, structured around in
 
 Secure a model risk or market risk analyst role at a Canadian financial institution.  
 Sit FRM Part I.
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-a-602328284/)
+[![Live App](https://img.shields.io/badge/Live%20Risk%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://integrated-risk-app.onrender.com/)
 
 ---
 
