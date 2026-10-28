@@ -6,7 +6,7 @@
 
 🔧 **Building:** [Integrated-Risk-App](https://github.com/sensor-aae/Integrated-Risk-App) — validation-grade market & credit risk engine (VaR/ES · GARCH · backtesting · stress testing) · [Live app ↗](https://integrated-risk-app.onrender.com/)
 
-🎯 **2026:** Model risk or market risk analyst role at a Canadian financial institution. Sit FRM Part I.
+🎯 **2026:** Model risk or market risk analyst role at a Canadian financial institution. 
 
 ---
 
